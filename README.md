@@ -1,3 +1,3 @@
 # Portfolio
 
-Projects and Resume will be addded, once it completed.
+Projects and Resume will be added, once it completed.
